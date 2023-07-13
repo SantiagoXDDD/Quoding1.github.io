@@ -1,0 +1,45 @@
+.FONDOPAGINA {
+	background: beige;
+}
+
+
+
+#TEXTO1 {
+	border: SOLID brown;
+	color: brown;
+}
+#TEXTO2 {
+
+	color: brown;
+}
+#TEXTO3 {
+
+	color: brown;
+}
+#TEXTO4 {
+
+	color: brown;
+}
+
+
+
+
+#LINEA1 {
+	color: brown;
+}
+
+
+
+#LIBROTAPA1 {
+	border: brown solid;
+}
+#LIBROTAPA2 {
+	border: brown solid;
+}
+#BOTONENVIAR {
+	border: Darkgreen solid;
+	background-color: lightgreen;
+}
+#SEPARADORES {
+	border: brown solid;
+}

@@ -1,0 +1,43 @@
+#O {
+	color: brown;
+	border: brown solid 5px;
+}
+
+
+.FONDOCUERPO {
+	background: beige;
+}
+
+
+#linea1{
+	color: brown;
+
+
+}
+#texto1 {
+	color: brown;
+}
+#texto2 {
+	color: brown;
+}
+#texto3 {
+	color: brown;
+}
+
+
+#LIBRO1 {
+	border: brown solid;
+}
+
+
+
+#BOTONverde {
+	border: darkgreen solid;
+background-color: lightgreen;
+}
+
+
+#BOTONnaranja {
+	border: brown solid;
+background-color: orange;
+}

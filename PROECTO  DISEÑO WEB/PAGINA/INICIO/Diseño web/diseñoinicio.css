@@ -1,0 +1,113 @@
+.fondopagina{
+     background-color: #e0a2a2 ;
+}
+
+ * {
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+ }
+
+ 
+
+.encabezado{
+    background-color: #a56c6c;
+    width: 100%;
+    clear: both;
+    display: table;
+    margin: auto;
+    padding: 10px;
+}
+
+
+ .menu{
+     width: 900px;
+     margin: 0 auto;
+
+ }
+
+ .imagen {
+     width: 150px;
+     height: 60px;
+     float: left;
+     padding: 5px;
+ }
+
+nav {
+background-color: #a56c6c;
+float: right;
+}
+
+.menu ul li {
+list-style: none ;
+margin-left: 75px;
+padding: 12px 0;
+float: left;
+position: relative;
+display: inline-block;
+}
+
+.menu ul li a {
+     text-decoration: none;
+     color: white;
+     font-weight: bold;
+     display: block;
+     font-family: cursive;
+}
+
+.menu ul li a::before {
+     display: block;
+     content: none;
+     width: 0%;
+     background:  #f3b6b6;
+     height: 5px;
+     top: 0;
+     position: absolute;
+     transition: width 0.2s;
+}
+
+.menu ul li a:hover {
+     width: 100%;
+}
+
+.parrafo1 {
+     border-style: dotted;
+     border-color: #f3b6b6;
+     border-radius: 40px;
+     border-width: 3px;
+     background-color: #f3b6b6;
+     width: 73%;
+     font-family: cursive;
+     font-size: 18px;
+}
+
+
+
+.titulo1 {
+     border-style: dotted;
+     border-color: #f3b6b6;
+     border-radius: 40px;
+     border-width: 3px;
+     background-color: #f3b6b6;
+     width: 73%;
+     font-family: cursive;
+     font-size: 22px;
+}
+
+.parrafo2 {
+     border-style: dotted;
+     border-color: #f3b6b6;
+     border-radius: 40px;
+     border-width: 3px;
+     background-color: #f3b6b6;
+     width: 73%;
+     font-family: cursive;
+     font-size: 18px;
+}
+
+.parrafo3 {
+     font-family: cursive;
+     font-size: 16px;
+     margin-left: 13px;
+}
+
